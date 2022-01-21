@@ -69,20 +69,27 @@ c. Ο συνολικός αριθμός των acceses (read+write) στην L2 
 **Βήμα 2ο**
 
 specbzip2
+
 ![image](https://user-images.githubusercontent.com/98122862/150547512-81e33c64-2818-41ad-a057-3ced6425c900.png)
 ![image](https://user-images.githubusercontent.com/98122862/150547551-535d2f76-ad20-4182-9e94-5c9a03aa8285.png)
 ![image](https://user-images.githubusercontent.com/98122862/150547573-d5f5f748-35cc-4945-a872-4900b63b82e1.png)
 
 spechmmer
-![image](https://user-images.githubusercontent.com/98122862/150547590-86de5e59-923f-4e29-a78a-24c661c92841.png)
 
+![image](https://user-images.githubusercontent.com/98122862/150547590-86de5e59-923f-4e29-a78a-24c661c92841.png)
 ![image](https://user-images.githubusercontent.com/98122862/150547618-51907250-9519-4366-8fea-5a674a5856ab.png)
+
 speclibm
+
 ![image](https://user-images.githubusercontent.com/98122862/150547765-96357189-d80b-4122-a436-404a0b3fdc1d.png)
+
 specmcf
+
 ![image](https://user-images.githubusercontent.com/98122862/150547796-0b600539-511f-4fa3-a810-99f588308c98.png)
 ![image](https://user-images.githubusercontent.com/98122862/150548027-03162062-9bf0-4b36-9a0c-dda66e9ceb63.png)
 ![image](https://user-images.githubusercontent.com/98122862/150548186-0a2358db-3e66-42d1-b5a1-612c337740f2.png)
+
+specsjeng
 
 ![image](https://user-images.githubusercontent.com/98122862/150548146-4eb09386-8630-4191-af82-a06e73219ae1.png)
 
